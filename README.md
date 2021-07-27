@@ -1,6 +1,6 @@
 # Loan Approval Prediction
 
-Loan Prediction using Decision Tree Classifier and Logistic Regression
+Loan Prediction using Decision Tree Classifier and Logistic Regression.
 
 **Dataset Description:**
 **Variable 	      Description**
