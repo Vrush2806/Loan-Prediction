@@ -2,8 +2,8 @@
 
 Loan Prediction using Decision Tree Classifier and Logistic Regression.
 
-**Dataset Description:**
-**Variable 	      Description**
+**Dataset Description:**\n
+**Variable 	      Description**\n
 Loan_ID 	        Unique Loan ID
 Gender 	          Male/ Female
 Married 	        Applicant married (Y/N)
